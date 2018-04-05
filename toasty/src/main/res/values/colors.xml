@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009186</color>
+    <color name="colorPrimaryDark">#00716a</color>
+    <color name="colorAccent">#FFC107</color>
+
+    <!-- basic colors -->
+    <color name="colorOrange">#e36c37</color>
+    <color name="colorLight">#48a999</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="textPrimary">#424242</color>
+    <color name="textSecondary">#727272</color>
+    <color name="colorTransperant">#00000000</color>
+
+
+    <!-- material colors-->
+    <color name="materialRed">#F44336</color>
+    <color name="materialPink">#FF4081</color>
+    <color name="materialBlue">#1976D2</color>
+    <color name="materialPurple">#E040FB</color>
+    <color name="materialYellow">#FFEB3B</color>
+    <color name="materialGreen">#4CAF50</color>
+    <color name="materialLightGreen">#8BC34A</color>
+    <color name="materialAmber">#FFC107</color>
+</resources>

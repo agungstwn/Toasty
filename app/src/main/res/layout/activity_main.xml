@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/sv_home"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.agung.android.testtoast.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <Button
+            android:id="@+id/btn_error_toast"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:text="Error Toast"
+            android:textColor="@color/colorWhite"
+            android:layout_margin="8dp"/>
+
+        <Button
+            android:id="@+id/btn_success_toast"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:text="Success Toast"
+            android:textColor="@color/colorWhite"
+            android:layout_margin="8dp"/>
+
+        <Button
+            android:id="@+id/btn_info_toast"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:text="Info Toast"
+            android:textColor="@color/colorWhite"
+            android:layout_margin="8dp"/>
+
+        <Button
+            android:id="@+id/btn_info_toast_with_formating"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:text="Info Toast With Formating"
+            android:textColor="@color/colorWhite"
+            android:layout_margin="8dp"/>
+    </LinearLayout>
+
+</ScrollView>

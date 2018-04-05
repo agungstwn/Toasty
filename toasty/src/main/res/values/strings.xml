@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">toasty</string>
+    <string name="text_error_toast">Error Toast</string>
+    <string name="text_success_toast">Success Toast</string>
+    <string name="text_info_toast">Info Toast</string>
+    <string name="text_info_toast_with_formating">Info Toast With Formating</string>
+    <string name="text_warning_toast">Warning Toast</string>
+    <string name="text_normal_toast_without_icon">Normal Toast (Without icon)</string>
+    <string name="text_normal_toast_with_icon">Normal Toast (With Icon)</string>
+    <string name="text_custom_configuration">Custom Configuration</string>
+    <string name="text_just_toast">Just Toast</string>
+</resources>
